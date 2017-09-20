@@ -1,0 +1,28 @@
+<?xml version=1.0?>
+<total>5</total>
+<Balloons>
+  <Balloon>
+    <ID>1</ID>
+    <name>balloon 1</name>
+    <desc>description of balloon 1</desc>
+    <price>0</price>
+  </Balloon>
+  <Balloon>
+      <ID>2</ID>
+      <name>balloon 2</name>
+      <desc>description of Balloon 2</desc>
+      <price>0</price>
+  </Balloon>
+  <Balloon>
+      <ID>3</ID>
+      <name>balloon 3</name>
+      <desc>description of Balloon 3. 2017-09-19</desc>
+      <price>1.9</price>
+  </Balloon>
+  <Balloon>
+      <ID>4</ID>
+      <name>balloon 4</name>
+      <desc>description of Balloon 4</desc>
+      <price>2.9</price>
+  </Balloon>
+</Balloons>
