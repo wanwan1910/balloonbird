@@ -16,13 +16,19 @@
   <Balloon>
       <ID>3</ID>
       <name>balloon 3</name>
-      <desc>description of Balloon 3. 2017-09-19</desc>
+      <desc>Heart balloons. Hmm, fell in love already!</desc>
       <price>1.9</price>
   </Balloon>
   <Balloon>
       <ID>4</ID>
       <name>balloon 4</name>
       <desc>description of Balloon 4</desc>
-      <price>2.9</price>
+      <price>0.9</price>
+  </Balloon>
+<Balloon>
+      <ID>5</ID>
+      <name>balloon 5</name>
+      <desc>description of Balloon 5</desc>
+      <price>0.9</price>
   </Balloon>
 </Balloons>
