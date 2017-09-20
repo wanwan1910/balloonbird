@@ -4,13 +4,13 @@
   <Balloon>
     <ID>1</ID>
     <name>balloon 1</name>
-    <desc>A grey balloon. You can get them free! Woohoo!</desc>
+    <desc>Description of Balloon 1.</desc>
     <price>0</price>
   </Balloon>
   <Balloon>
       <ID>2</ID>
       <name>balloon 2</name>
-      <desc>description of Balloon 2</desc>
+      <desc>Grey balloons. You can get them free! Woohoo!</desc>
       <price>0</price>
   </Balloon>
   <Balloon>
