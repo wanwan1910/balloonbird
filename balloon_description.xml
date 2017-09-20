@@ -16,31 +16,31 @@
   <Balloon>
       <ID>4</ID>
       <name>balloon 4</name>
-      <desc>description of Balloon 4</desc>
+      <desc>Pink balloons. Yea, so lovely! Right?</desc>
       <price>0.9</price>
   </Balloon>
 <Balloon>
       <ID>5</ID>
       <name>balloon 5</name>
-      <desc>description of Balloon 5</desc>
+      <desc>Blue balloons. Fly on the sky!</desc>
       <price>0.9</price>
   </Balloon>
 <Balloon>
       <ID>6</ID>
-      <name>balloon 5</name>
-      <desc>description of Balloon 5</desc>
+      <name>balloon 6</name>
+      <desc>Green balloons. Grass color, isn't it?</desc>
       <price>0.9</price>
   </Balloon>
 <Balloon>
       <ID>7</ID>
       <name>balloon 7</name>
-      <desc>description of Balloon 7</desc>
+      <desc>Violet balloons. Do you love violet flowers?</desc>
       <price>0.9</price>
   </Balloon>
 <Balloon>
       <ID>8</ID>
       <name>balloon 8</name>
-      <desc>description of Balloon 8</desc>
+      <desc>Red balloons. It seems hot, man!</desc>
       <price>0.9</price>
   </Balloon>
   <Balloon>
