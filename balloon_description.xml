@@ -4,7 +4,7 @@
   <Balloon>
     <ID>1</ID>
     <name>balloon 1</name>
-    <desc>description of balloon 1</desc>
+    <desc>A grey balloon. You can get them free! Woohoo!</desc>
     <price>0</price>
   </Balloon>
   <Balloon>
