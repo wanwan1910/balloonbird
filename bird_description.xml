@@ -4,71 +4,71 @@
   <Bird>
     <ID>1</ID>
     <name>chim den</name>
-    <desc>description of bird 1</desc>
+    <desc>This is default bird. You got it free!</desc>
     <price>0</price>
-    <max_vx>50</max_vx>
-    <max_vy>50</max_vy>
-    <strength_vx>50</strength_vx>
-    <strength_vy>50</strength_vy>
+    <max_vx>30</max_vx>
+    <max_vy>30</max_vy>
+    <strength_vx>30</strength_vx>
+    <strength_vy>30</strength_vy>
   </Bird>
   <Bird>
       <ID>2</ID>
-      <name>chim vang</name>
-      <desc>description of bird 2</desc>
-      <price>1.9</price>
-      <max_vx>30</max_vx>
-      <max_vy>30</max_vy>
-      <strength_vx>90</strength_vx>
-      <strength_vy>90</strength_vy>
-  </Bird>
-  <Bird>
-      <ID>3</ID>
-      <name>chim vang</name>
-      <desc>description of bird 3</desc>
+      <name>DieuHauVang</name>
+      <desc>Name: Aquila Chrysaetos. He is a golden eagle, is one of the best-known birds of prey in the Northern Hemisphere.</desc>
       <price>2.9</price>
-      <max_vx>70</max_vx>
-      <max_vy>70</max_vy>
-      <strength_vx>30</strength_vx>
-      <strength_vy>30</strength_vy>
-  </Bird>
-  <Bird>
-      <ID>4</ID>
-      <name>chim vang</name>
-      <desc>description of bird 4</desc>
-      <price>3.9</price>
-      <max_vx>80</max_vx>
-      <max_vy>80</max_vy>
-      <strength_vx>10</strength_vx>
-      <strength_vy>10</strength_vy>
-  </Bird>
-  <Bird>
-      <ID>5</ID>
-      <name>chim vang</name>
-      <desc>description of bird 5</desc>
-      <price>4.9</price>
-      <max_vx>100</max_vx>
-      <max_vy>100</max_vy>
-      <strength_vx>100</strength_vx>
-      <strength_vy>100</strength_vy>
-  </Bird>
-  <Bird>
-      <ID>6</ID>
-      <name>chim vang</name>
-      <desc>description of bird 6</desc>
-      <price>1.9</price>
-      <max_vx>30</max_vx>
-      <max_vy>30</max_vy>
+      <max_vx>65</max_vx>
+      <max_vy>65</max_vy>
       <strength_vx>40</strength_vx>
       <strength_vy>40</strength_vy>
   </Bird>
   <Bird>
+      <ID>3</ID>
+      <name>DaibangDauTrang</name>
+      <desc>Name: Haliaeetus Leucocephalus. He is a bald eagle, is a bird of prey found in North America.</desc>
+      <price>2.9</price>
+      <max_vx>70</max_vx>
+      <max_vy>70</max_vy>
+      <strength_vx>40</strength_vx>
+      <strength_vy>40</strength_vy>
+  </Bird>
+  <Bird>
+      <ID>4</ID>
+      <name>ChimTim</name>
+      <desc>Name: Cinnyricinclus Leucogaster. The violet-backed starling, is a relatively small species of starling in the family Sturnidae.</desc>
+      <price>1.9</price>
+      <max_vx>50</max_vx>
+      <max_vy>50</max_vy>
+      <strength_vx>50</strength_vx>
+      <strength_vy>50</strength_vy>
+  </Bird>
+  <Bird>
+      <ID>5</ID>
+      <name>VetThuong</name>
+      <desc>Name: Ramphastos Toco. The toco toucan, is the largest and probably the best known species in the toucan family.</desc>
+      <price>2.9</price>
+      <max_vx>70</max_vx>
+      <max_vy>70</max_vy>
+      <strength_vx>50</strength_vx>
+      <strength_vy>50</strength_vy>
+  </Bird>
+  <Bird>
+      <ID>6</ID>
+      <name>ChimXanhDuong</name>
+      <desc>Name: Cyanocitta Cristata. The blue jay, is a passerine bird in the family Corvidae, native to North America.</desc>
+      <price>1.9</price>
+      <max_vx>40</max_vx>
+      <max_vy>40</max_vy>
+      <strength_vx>70</strength_vx>
+      <strength_vy>70</strength_vy>
+  </Bird>
+  <Bird>
       <ID>7</ID>
-      <name>chim vang</name>
-      <desc>description of bird 7</desc>
-      <price>3.9</price>
-      <max_vx>90</max_vx>
-      <max_vy>80</max_vy>
-      <strength_vx>100</strength_vx>
-      <strength_vy>800</strength_vy>
+      <name>GaLoiVang</name>
+      <desc>Name: Mongolian Ringneck Pheasant. He is from Norht East Turkestan and adjacent Mongolia.</desc>
+      <price>1.9</price>
+      <max_vx>70</max_vx>
+      <max_vy>70</max_vy>
+      <strength_vx>90</strength_vx>
+      <strength_vy>90</strength_vy>
   </Bird>
 </Birds>
