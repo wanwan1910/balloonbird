@@ -4,7 +4,7 @@
   <Bird>
     <ID>1</ID>
     <name>chim den</name>
-    <desc>This is default bird. You got it free!</desc>
+    <desc>Name: Passy. A passerine is any bird of the order Passeriformes, which includes more than half of all bird species.</desc>
     <price>0</price>
     <max_vx>30</max_vx>
     <max_vy>30</max_vy>
@@ -14,7 +14,7 @@
   <Bird>
       <ID>2</ID>
       <name>DieuHauVang</name>
-      <desc>Name: Aquila Chrysaetos. He is a golden eagle, is one of the best-known birds of prey in the Northern Hemisphere.</desc>
+      <desc>Name: Aquila. He is a golden eagle, is one of the best-known birds of prey in the Northern Hemisphere.</desc>
       <price>2.9</price>
       <max_vx>65</max_vx>
       <max_vy>65</max_vy>
@@ -24,7 +24,7 @@
   <Bird>
       <ID>3</ID>
       <name>DaibangDauTrang</name>
-      <desc>Name: Haliaeetus Leucocephalus. He is a bald eagle, is a bird of prey found in North America.</desc>
+      <desc>Name: Hally. He is a bald eagle, is a bird of prey found in North America.</desc>
       <price>2.9</price>
       <max_vx>70</max_vx>
       <max_vy>70</max_vy>
@@ -34,7 +34,7 @@
   <Bird>
       <ID>4</ID>
       <name>ChimTim</name>
-      <desc>Name: Cinnyricinclus Leucogaster. The violet-backed starling, is a relatively small species of starling in the family Sturnidae.</desc>
+      <desc>Name: Cinny. The violet-backed starling, is a relatively small species of starling in the family Sturnidae.</desc>
       <price>1.9</price>
       <max_vx>50</max_vx>
       <max_vy>50</max_vy>
@@ -44,7 +44,7 @@
   <Bird>
       <ID>5</ID>
       <name>VetThuong</name>
-      <desc>Name: Ramphastos Toco. The toco toucan, is the largest and probably the best known species in the toucan family.</desc>
+      <desc>Name: Toco. The toco toucan, is the largest and probably the best known species in the toucan family.</desc>
       <price>2.9</price>
       <max_vx>70</max_vx>
       <max_vy>70</max_vy>
@@ -54,7 +54,7 @@
   <Bird>
       <ID>6</ID>
       <name>ChimXanhDuong</name>
-      <desc>Name: Cyanocitta Cristata. The blue jay, is a passerine bird in the family Corvidae, native to North America.</desc>
+      <desc>Name: Cyano. The blue jay, is a passerine bird in the family Corvidae, native to North America.</desc>
       <price>1.9</price>
       <max_vx>40</max_vx>
       <max_vy>40</max_vy>
@@ -64,7 +64,7 @@
   <Bird>
       <ID>7</ID>
       <name>GaLoiVang</name>
-      <desc>Name: Mongolian Ringneck Pheasant. He is from Norht East Turkestan and adjacent Mongolia.</desc>
+      <desc>Name: Mongosant. He is from Norht East Turkestan and adjacent Mongolia.</desc>
       <price>1.9</price>
       <max_vx>70</max_vx>
       <max_vy>70</max_vy>
