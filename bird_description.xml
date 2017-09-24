@@ -34,7 +34,7 @@
   <Bird>
       <ID>4</ID>
       <name>ChimTim</name>
-      <desc>Name: Cinny. The violet-backed starling, is a relatively small species of starling in the family Sturnidae.</desc>
+      <desc>Name: Cinny. The violet-backed starling, is a relatively small species of starling in the Sturnidae.</desc>
       <price>1.9</price>
       <max_vx>50</max_vx>
       <max_vy>50</max_vy>
