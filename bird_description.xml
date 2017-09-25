@@ -64,11 +64,11 @@
   <Bird>
       <ID>7</ID>
       <name>GaLoiVang</name>
-      <desc>Name: Mongosant. He is from Norht East Turkestan and adjacent Mongolia.</desc>
+      <desc>Name: Mongosant. He is from North East Turkestan and adjacent Mongolia.</desc>
       <price>1.9</price>
-      <max_vx>70</max_vx>
-      <max_vy>70</max_vy>
-      <strength_vx>90</strength_vx>
-      <strength_vy>90</strength_vy>
+      <max_vx>95</max_vx>
+      <max_vy>95</max_vy>
+      <strength_vx>35</strength_vx>
+      <strength_vy>35</strength_vy>
   </Bird>
 </Birds>
