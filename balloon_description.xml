@@ -67,4 +67,40 @@
       <desc>Mushroom balloons. Power up flying?!</desc>
       <price>1.9</price>
   </Balloon>
+  <Balloon>
+      <ID>12</ID>
+      <name>balloon 12</name>
+      <desc>Green Dinosaur balloons. Let's back to prehistory!</desc>
+      <price>1.9</price>
+  </Balloon>
+<Balloon>
+      <ID>13</ID>
+      <name>balloon 13</name>
+      <desc>Grey Pacman balloons. Gonna eat 'em all!</desc>
+      <price>1.9</price>
+  </Balloon>
+  <Balloon>
+      <ID>14</ID>
+      <name>balloon 14</name>
+      <desc>Blue Spinner balloons. 'round 'round 'round!</desc>
+      <price>1.9</price>
+  </Balloon>
+ <Balloon>
+      <ID>15</ID>
+      <name>balloon 15</name>
+      <desc>Soccerball balloons. Shoot! Gooooaaaallll!!!!</desc>
+      <price>1.9</price>
+  </Balloon>
+<Balloon>
+      <ID>16</ID>
+      <name>balloon 16</name>
+      <desc>Volleyball balloons. Who wanna play?</desc>
+      <price>1.9</price>
+  </Balloon>
+<Balloon>
+      <ID>17</ID>
+      <name>balloon 17</name>
+      <desc>Basketball balloons. We should add some baskets to this game!</desc>
+      <price>1.9</price>
+  </Balloon>
 </Balloons>
