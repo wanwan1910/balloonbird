@@ -8,8 +8,8 @@
     <price>0</price>
     <max_vx>50</max_vx>
     <max_vy>50</max_vy>
-    <strength_vx>50</strength_vx>
-    <strength_vy>50</strength_vy>
+    <strength_vx>70</strength_vx>
+    <strength_vy>70</strength_vy>
   </Bird>
   <Bird>
       <ID>2</ID>
