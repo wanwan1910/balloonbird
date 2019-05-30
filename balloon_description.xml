@@ -17,72 +17,72 @@
       <ID>4</ID>
       <name>balloon 4</name>
       <desc>Pink balloons. Yea, so lovely! Right?</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
 <Balloon>
       <ID>5</ID>
       <name>balloon 5</name>
       <desc>Blue balloons. Fly on the sky!</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
 <Balloon>
       <ID>6</ID>
       <name>balloon 6</name>
       <desc>Green balloons. Grass color, isn't it?</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
 <Balloon>
       <ID>7</ID>
       <name>balloon 7</name>
       <desc>Violet balloons. Do you love violet flowers?</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
 <Balloon>
       <ID>8</ID>
       <name>balloon 8</name>
       <desc>Red balloons. It seems hot, man!</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
  <Balloon>
       <ID>11</ID>
       <name>balloon 10</name>
       <desc>Yellow balloons. Sparking sunlight is coming!</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
   <Balloon>
       <ID>3</ID>
       <name>balloon 3</name>
       <desc>Heart balloons. Hmm, fell in love already!</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
   <Balloon>
       <ID>9</ID>
       <name>balloon 9</name>
       <desc>Chuckle balloons. Muahahaha laughing!</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
  <Balloon>
       <ID>10</ID>
       <name>balloon 10</name>
       <desc>Mushroom balloons. Power up flying?!</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
   <Balloon>
       <ID>12</ID>
       <name>balloon 12</name>
       <desc>Green Dinosaur balloons. Let's back to prehistory!</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
 <Balloon>
       <ID>13</ID>
       <name>balloon 13</name>
       <desc>Grey Pacman balloons. Gonna eat 'em all!</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
   <Balloon>
       <ID>14</ID>
       <name>balloon 14</name>
       <desc>Blue Spinner balloons. 'round 'round 'round!</desc>
-      <price>0.9</price>
+      <price>0</price>
   </Balloon>
 </Balloons>
